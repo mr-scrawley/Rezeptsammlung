@@ -2,9 +2,9 @@
 
 layout: recipe
 title:  "Cremige One Pot Champignon-Nudeln"
-image: banana-bread.jpg
-imagecredit: https://flic.kr/p/7HZmzn
-tags: breakfast, baking
+image: mushrooms.jpg
+imagecredit: https://unsplash.com/photos/QN6NkYi3CKs
+tags: Hauptgericht, Nudeln
 
 ingredients:
 - 1 m.-große  Zwiebel(n)
