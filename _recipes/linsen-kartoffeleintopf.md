@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Linsen-Kartoffeleintopf vegan"
-image: lentils.jpg
-imagecredit: https://unsplash.com/photos/1PmVG-ScdKk
+image: potato.jpg
+imagecredit: https://unsplash.com/photos/B0s3Xndk6tw
 tags: Hauptgericht, Kartoffeln
 
 ingredients:
