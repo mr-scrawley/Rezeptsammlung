@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gefüllte Zucchini mit mexikanischem Reis und Cashew Käse"
+title:  "Zucchini mit Reis und Cashew-Sauce"
 image: zucchini.jpg
 imagecredit: https://unsplash.com/photos/TslZATW-2gw
 tags: Hauptgericht, Reis, Tofu
