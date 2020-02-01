@@ -21,7 +21,7 @@ ingredients:
 - n. B. Basmati 
 
 directions:
-- Etwa 30 Minuten vorher sollte man den Tofu marinieren: Hierzu den Tofu in
+- Etwa 30 Minuten vorher sollte man den Tofu marinieren. Hierzu den Tofu in
   kleine Würfel schneiden und mit Currypulver, Sojasoße und etwa 100 ml
   Kokosmilch in einer Schüssel marinieren. Gemüse und Reis vorbereiten
 - Den Lauch waschen und anschließend in feine Ringe schneiden.
