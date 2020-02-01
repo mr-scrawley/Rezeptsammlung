@@ -33,5 +33,8 @@ directions:
   hinzufügen. 
 
 ---
-
-Quelle: https://www.chefkoch.de/rezepte/3481271518725433/Cremige-One-Pot-Champignon-Nudeln.html
+2 Portionen
+ | Arbeitszeit ca. 5 Minuten
+ | Koch-/Backzeit ca. 15 Minuten
+ | Gesamtzeit ca. 20 Minuten 
+ | Quelle: https://www.chefkoch.de/rezepte/3481271518725433/Cremige-One-Pot-Champignon-Nudeln.html

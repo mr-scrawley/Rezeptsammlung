@@ -41,10 +41,9 @@ directions:
 
 ---
 
-Quelle:
-https://www.chefkoch.de/rezepte/1893301308285830/Tofu-Gemuese-Pfanne-mit-Kokosmilch.html?portionen=3
 3 Portionen
-Arbeitszeit ca. 30 Minuten
-Ruhezeit ca. 30 Minuten
-Koch-/Backzeit ca. 15 Minuten
-Gesamtzeit ca. 1 Stunde 15 Minuten 
+ | Arbeitszeit ca. 30 Minuten
+ | Ruhezeit ca. 30 Minuten
+ | Koch-/Backzeit ca. 15 Minuten
+ | Gesamtzeit ca. 1 Stunde 15 Minuten
+ | Quelle: https://www.chefkoch.de/rezepte/1893301308285830/Tofu-Gemuese-Pfanne-mit-Kokosmilch.html?portionen=3
