@@ -12,4 +12,4 @@ directions:
 
 ---
 2 Portionen
- | Quelle: 
+| Quelle: 
