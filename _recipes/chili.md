@@ -1,10 +1,10 @@
 ---
 
 layout: recipe
-title: ""
+title: "Chili sin Carne"
 image: .jpg
 imagecredit: 
-tags: Hauptgericht
+tags: Hauptgericht, Reis
 
 ingredients:
 - 150 g feine Sojaschnetzel (-granulat)
