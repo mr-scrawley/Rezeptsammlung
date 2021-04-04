@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Linsensuppe"
-image: lentils.jpg
+image: linsensuppe.jpg
 imagecredit: https://unsplash.com/photos/1PmVG-ScdKk
 tags: Suppe
 

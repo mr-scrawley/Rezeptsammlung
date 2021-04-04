@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Vegane Spätzle mit Linsen"
-image: 
+image: lentils.jpg
 imagecredit: 
 tags: Hauptgericht, Nudeln
 
