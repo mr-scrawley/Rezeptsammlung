@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Linsensuppe"
 image: linsensuppe.jpg
-imagecredit: https://unsplash.com/photos/1PmVG-ScdKk
+imagecredit: 
 tags: Suppe
 
 ingredients:
