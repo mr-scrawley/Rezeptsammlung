@@ -7,7 +7,7 @@ imagecredit: https://unsplash.com/photos/m1t-RJ1iCIU
 tags: Hauptgericht, Nudeln
 
 ingredients:
-- 1 kpf 	Brokkoli
+- 1 kpf Brokkoli
 - 2 Prise Salz
 - 600 g Hörnchennudeln
 - 200 ml Schlagobers
@@ -17,7 +17,7 @@ ingredients:
 - 200g Käse (gerieben) 
 
 directions:
- - Zuerst den Brokkoli in Röschen teilen, kurz blanchieren und abschrecken
+- Zuerst den Brokkoli in Röschen teilen, kurz blanchieren und abschrecken
 - Makkaroni in Salzwasser sehr bissfest kochen
 - Butter in einer Pfanne erwärmen, die Brösel kurz darin anrösten
 - Käse grob reiben und ein Viertel davon zur Seite stellen
