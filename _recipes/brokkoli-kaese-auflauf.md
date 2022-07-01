@@ -17,9 +17,8 @@ ingredients:
 - 200g Käse (gerieben) 
 
 directions:
-
  - Zuerst den Brokkoli in Röschen teilen, kurz blanchieren und abschrecken
- - Makkaroni in Salzwasser sehr bissfest kochen
+- Makkaroni in Salzwasser sehr bissfest kochen
 - Butter in einer Pfanne erwärmen, die Brösel kurz darin anrösten
 - Käse grob reiben und ein Viertel davon zur Seite stellen
 - Ofen auf 200 Grad Ober-/Unterhitze vorheizen
