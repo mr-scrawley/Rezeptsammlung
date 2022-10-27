@@ -2,7 +2,7 @@
 title: Hellen & Michas Rezeptsammlung 🥕🥔🍆
 email: 
 description: The plain text recipe database for hackers
-baseurl: "https://www.rezepte.schmierer.org"
+baseurl: "https://rezepte.schmierer.org"
 language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
