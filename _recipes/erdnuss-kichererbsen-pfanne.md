@@ -7,6 +7,7 @@ imagecredit: https://unsplash.com/photos/8LbcvCZnmyw
 tags: Hauptgericht, Vegan
 
 ingredients:
+- Reis oder Brot als Beilage
 - 1 Zwiebel
 - 3 Knoblauchzehen
 - 1 Chilischote
