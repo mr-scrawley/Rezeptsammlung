@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Gnocchi à la Assy"
-image: gnocchi.jpg
-imagecredit: https://unsplash.com/photos/5300Q8dOY18
+image: gnocchi-a-la-assy.jpg
+imagecredit:
 tags: Hauptgericht
 
 ingredients:
