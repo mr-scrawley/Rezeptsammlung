@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Gebratene Nudeln"
-image: .jpg
-imagecredit: 
+image: pasta2.jpg
+imagecredit: https://unsplash.com/photos/m5Ft3bsalhQ
 tags: Hauptgericht, Nudeln
 
 ingredients:

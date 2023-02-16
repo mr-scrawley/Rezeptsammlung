@@ -2,8 +2,8 @@
 
 layout: recipe
 title: "Couscous-Pfanne mit mediterranem Gemüse"
-image: .jpg
-imagecredit: 
+image: couscous.jpg
+imagecredit: https://unsplash.com/photos/zPn53_jmW_k
 tags: Hauptgericht
 
 ingredients:

@@ -2,8 +2,8 @@
 
 layout: recipe
 title: "Kürbissuppe"
-image: .jpg
-imagecredit: 
+image: pumpkin-soup.jpg
+imagecredit: https://unsplash.com/photos/5HjFnUaCjho
 tags: Vorspeise, Suppe
 
 ingredients:

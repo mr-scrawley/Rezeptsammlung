@@ -2,8 +2,8 @@
 
 layout: recipe
 title: "Chili sin Carne"
-image: .jpg
-imagecredit: 
+image: chili.jpg
+imagecredit: https://unsplash.com/photos/SlqbDPH6Bic
 tags: Hauptgericht, Reis
 
 ingredients:

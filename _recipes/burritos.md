@@ -2,8 +2,8 @@
 
 layout: recipe
 title: "Burritos"
-image: .jpg
-imagecredit: 
+image: burrito.jpg
+imagecredit: https://unsplash.com/photos/p-O37cSAV_4
 tags: Hauptgericht
 
 ingredients:

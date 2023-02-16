@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Chinakohl-Pilz-Pfanne"
-image: chinakohl-pilz-pfanne.jpg
-imagecredit: 
+image: cabbage.jpg
+imagecredit: https://unsplash.com/photos/b75Vwu03Jmw
 tags: Hauptgericht, Nudeln
 
 
