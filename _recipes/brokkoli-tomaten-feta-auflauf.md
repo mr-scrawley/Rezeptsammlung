@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Brokkoli-Tomaten-Feta-Auflauf"
-image: broccoli.jpg
-imagecredit: https://unsplash.com/photos/m1t-RJ1iCIU
+image: tomato.jpg
+imagecredit: https://unsplash.com/photos/UD_j10SKj5g
 tags: Hauptgericht, LowCarb
 
 ingredients:
